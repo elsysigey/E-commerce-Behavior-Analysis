@@ -3,11 +3,11 @@
 ### **Problem Statement: E-commerce Consumer Behavior Analysis**  
 
 #### **Objective**  
-The goal of this analysis is to gain deep insights into consumer behavior in an e-commerce setting. By analyzing transactional data, we aim to identify purchasing patterns, customer segmentation, factors influencing buying decisions, and strategies to enhance customer retention and conversion rates.
+This analysis aims to gain deep insights into consumer behaviour in an e-commerce setting. By analyzing transactional data, we strive to identify purchasing patterns, customer segmentation, factors influencing buying decisions, and strategies to enhance customer retention and conversion rates.
 
 #### **Key Analysis Areas**  
 1. **Customer Segmentation**  
-   - Classify customers based on demographics, purchase frequency, and spending behavior.
+   - Classify customers based on demographics, purchase frequency, and spending behaviour.
    - Identify high-value customers (e.g., using RFM analysis—Recency, Frequency, Monetary Value).
 
 2. **Purchase Behavior Trends**  
@@ -26,16 +26,16 @@ The goal of this analysis is to gain deep insights into consumer behavior in an 
    - Assess the impact of customer service interactions on retention.
 
 5. **Price Sensitivity & Discounts Impact**  
-   - Measure how price changes influence purchasing behavior.
+   - Measure how price changes influence purchasing behaviour.
    - Identify price-sensitive vs. premium customers.
    - Evaluate the effectiveness of discounts and promotional campaigns.
 
 6. **Fraud Detection & Risk Analysis**  
    - Detect anomalies in transactions that may indicate fraud.
-   - Identify patterns in return/refund behavior.
+   - Identify patterns in return/refund behaviour.
 
 #### **Expected Outcomes**  
-- Detailed insights into customer preferences and shopping behaviors.
+- Detailed insights into customer preferences and shopping behaviours.
 - Data-driven strategies to improve sales, marketing, and customer engagement.
 - Identification of revenue-boosting opportunities through personalized recommendations and dynamic pricing.
 
