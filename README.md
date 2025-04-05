@@ -1,6 +1,7 @@
 # E-commerce-Behavior-Analysis
   ---
 ### **Problem Statement: E-commerce Consumer Behavior Analysis**  
+![Customer Behavior Analysis](https://raw.githubusercontent.com/your-username/your-repository/main/Capture.PNG)
 
 #### **Objective**  
 This analysis aims to gain deep insights into consumer behaviour in an e-commerce setting. By analyzing transactional data, we strive to identify purchasing patterns, customer segmentation, factors influencing buying decisions, and strategies to enhance customer retention and conversion rates.
