@@ -1,4 +1,4 @@
-# E-commerce-Behavior-Analysis
+# E-commerce-Behavior-Analysis-POWER BI
   ---
 ### **Problem Statement: E-commerce Consumer Behavior Analysis**  
 ![Capture](https://github.com/user-attachments/assets/279b53a6-5781-46bb-ac01-69558df04be2)
